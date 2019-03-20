@@ -3,7 +3,7 @@ inherit python-wheel
 
 NAME="python-whoosh"
 VERSION=2.7.4
-RELEASE=1
+RELEASE=2
 CATEGORY="Python"
 SUMMARY="Python full text indexing, search, and spell checking library"
 DESCRIPTION="Whoosh is a fast, featureful full-text indexing and searching
